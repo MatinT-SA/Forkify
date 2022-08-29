@@ -128,10 +128,6 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
-const newFeature = function () {
-  console.log('Welcome to the application!');
-};
-
 // Funkcija u funkciji, lekcija
 // Funk je pokrenuta, a druga funk je event, i ona ce se stalno moci izvrsavati
 const init = function () {
@@ -148,6 +144,5 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   // Za uploudovanje
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  newFeature();
 };
 init();
