@@ -1,6 +1,6 @@
 # Forkify
-![forkify-dusan netlify app_](https://user-images.githubusercontent.com/112414082/210066803-89a9c1c5-d318-4f81-8508-520f39545e84.png)
-<img src="https://user-images.githubusercontent.com/112414082/210066803-89a9c1c5-d318-4f81-8508-520f39545e84.png" style="width: 800px">
+
+<img src="https://user-images.githubusercontent.com/112414082/210066803-89a9c1c5-d318-4f81-8508-520f39545e84.png" style="height: 800px">
 
 Recipe application with custom recipe uploads.
 
