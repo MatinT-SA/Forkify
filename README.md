@@ -43,7 +43,7 @@ The application provides the user with:
 
 ## Getting Started
 
-To start the project, it is necessary to download the files from the github, after that you most install npm and script in console.
+To start the project, it is necessary to download the files from the github, after that you must install npm and script in console.
 
 ### Instalation
 
