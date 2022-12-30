@@ -35,7 +35,7 @@ The application provides the user with:
 
 - HTML
 - SASS
-- JS (API, OOP)
+- JS (API, OOP, AJAX)
 
 [Back To The Top](#forkify)
 
